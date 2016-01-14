@@ -1,0 +1,25 @@
+URLS:
+
+Stevens: https://www.stevenspass.com/site/mountain/reports/snow-and-weather-report/@@snow-and-weather-report
+	temp, overnight, 24hr, 48hr, current_condition, wind, visibility, depth, slope_conditions
+
+Crystal: http://crystalmountainresort.com/the-mountain/current-conditions/
+	temp, overnight, 24hr, 48hr, MAYBE: slope_conditions, visibility, wind
+
+Snoqualmie: http://www.summitatsnoqualmie.com/conditions
+	temp, overnight, 12hr, 24hr, 48hr, current_condition, depth, wind
+
+Baker: http://www.mtbaker.us/snow-report/
+	temp, 12hr, 24hr, depth, current_condition, slope_conditions
+
+
+
+Categories:
+	Snowfall: Overnight, 24hr, 48hr
+	Depth
+	Slope Conditions
+	Current Temperature
+	Wind
+	Visibility
+	Current Conditions
+

@@ -1,0 +1,52 @@
+{
+    "stevens": {
+        "overnight": "",
+        "last24": "",
+        "last48": "",
+        "temp": "",
+        "wind": "",
+        "vision": "",
+        "baseDepth": "",
+        "topDepth": "",
+        "weatherConditions": "",
+        "surfaceConditions": ""
+    },
+    "crystal": {
+        "overnight": "",
+        "last24": "",
+        "last48": "",
+        "temp": "",
+        "wind": "",
+        "vision": "",
+        "baseDepth": "",
+        "topDepth": "",
+        "weatherConditions": "",
+        "surfaceConditions": ""
+    },
+    "baker": {
+        "overnight": "",
+        "last12": "",
+        "last24": "",
+        "last48": "",
+        "temp": "",
+        "wind": "",
+        "vision": "",
+        "baseDepth": "",
+        "topDepth": "",
+        "weatherConditions": "",
+        "surfaceConditions": ""
+    },
+    "snoqualmie": {
+        "overnight": "",
+        "last12": "",
+        "last24": "",
+        "last48": "",
+        "temp": "",
+        "wind": "",
+        "vision": "",
+        "baseDepth": "",
+        "topDepth": "",
+        "weatherConditions": "",
+        "surfaceConditions": ""
+    }
+}
